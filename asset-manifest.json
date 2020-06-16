@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactPixaBayAPI/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/ReactPixaBayAPI/static/js/main.31198f97.chunk.js",
+    "main.js.map": "/ReactPixaBayAPI/static/js/main.31198f97.chunk.js.map",
+    "runtime-main.js": "/ReactPixaBayAPI/static/js/runtime-main.e307f132.js",
+    "runtime-main.js.map": "/ReactPixaBayAPI/static/js/runtime-main.e307f132.js.map",
+    "static/js/2.9c46813c.chunk.js": "/ReactPixaBayAPI/static/js/2.9c46813c.chunk.js",
+    "static/js/2.9c46813c.chunk.js.map": "/ReactPixaBayAPI/static/js/2.9c46813c.chunk.js.map",
+    "index.html": "/ReactPixaBayAPI/index.html",
+    "precache-manifest.949f1505d2c1f43b35e033eb16178e11.js": "/ReactPixaBayAPI/precache-manifest.949f1505d2c1f43b35e033eb16178e11.js",
+    "service-worker.js": "/ReactPixaBayAPI/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/ReactPixaBayAPI/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.9c46813c.chunk.js.LICENSE.txt": "/ReactPixaBayAPI/static/js/2.9c46813c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e307f132.js",
+    "static/js/2.9c46813c.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.31198f97.chunk.js"
+  ]
+}
